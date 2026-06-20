@@ -1,0 +1,26 @@
+# Node
+node_modules/
+frontend/node_modules/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Environment
+.env
+
+# Reports
+reports/*.pdf
+
+# Uploads
+uploads/
+
+# Database
+*.db
+*.sqlite3
+
+# Build
+dist/
+build/
