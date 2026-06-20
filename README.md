@@ -279,31 +279,60 @@ Interactive docs available at `/api/docs` (Swagger UI) and `/api/redoc`.
 
 ## 📸 Screenshots
 
-> Screenshots are taken from a live instance with a sample Master Service Agreement loaded.
-
 ### Dashboard — Portfolio Overview
-![Dashboard](docs/screenshots/dashboard.png)
-*Real-time portfolio stats, risk distribution pie chart, clause coverage bar chart, and contract upload trend over 30 days.*
 
-### Contract Analysis — Risk Assessment Tab
-![Risk Assessment](docs/screenshots/risk-assessment.png)
-*Weighted risk score with severity breakdown, risk factors with individual severity badges, and plain-English explanations for each flag.*
+![Dashboard](screenshots/Dashboard.png)
 
-### Contract Analysis — Clause Intelligence Tab
-![Clause Intelligence](docs/screenshots/clause-intelligence.png)
-*9 clause types rendered with extracted text, confidence score, and found/missing status indicators.*
+*Real-time portfolio statistics, risk distribution, clause coverage analytics, and contract upload trends.*
 
-### AI Assistant
-![AI Assistant](docs/screenshots/ai-assistant.png)
-*Natural-language Q&A interface with persistent chat history, intent classification, and suggested starter questions.*
+---
+
+### Contracts Management
+
+![Contracts](screenshots/Contracts.png)
+
+*Centralized contract repository with upload, tracking, and lifecycle management.*
+
+---
+
+### Contract Analysis — Risk Assessment
+
+![Risk Assessment](screenshots/Analysis.png)
+
+*Weighted risk scoring, severity classification, and AI-generated legal risk insights.*
+
+---
+
+### Contract Analysis — Clause Intelligence
+
+![Clause Intelligence](screenshots/Clauses.png)
+
+*Automated extraction and categorization of legal clauses with confidence scoring.*
+
+---
+
+### AI Legal Assistant
+
+![AI Assistant](screenshots/AIAssistant.png)
+
+*Natural language contract Q&A with contextual legal guidance and conversation history.*
+
+---
 
 ### Contract Comparison
-![Comparison](docs/screenshots/comparison.png)
-*Side-by-side diff of any two analysed contracts with change type labels (modified / added / removed) and impact ratings.*
 
-### PDF Report
-![Report](docs/screenshots/report.png)
-*Generated PDF report with branded header, executive summary, full risk analysis, and a structured recommendations table.*
+![Comparison](screenshots/Comparison.png)
+
+*Side-by-side comparison of contracts with detected additions, removals, modifications, and impact analysis.*
+
+---
+
+### Reports & Executive Summary
+
+![Reports](screenshots/Reports.png)
+
+*Professional report generation including executive summaries, risk analysis, and recommendations.*
+
 
 > **Note:** To add screenshots, place `.png` files in `docs/screenshots/` matching the filenames above.
 
