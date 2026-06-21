@@ -1,4 +1,6 @@
-﻿<div align="center">
+<p align="center">
+  <img src="screenshots/Dashboard.png" width="100%">
+</p>
 
 <h1>⚖️ Lexora AI</h1>
 <h3>Transforming Contracts into Actionable Intelligence</h3>
